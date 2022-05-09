@@ -47,3 +47,24 @@ a{
 img{
     height: 480px;
 }
+
+.description{
+    font-size: 14px;
+    margin-top: 0;
+
+}
+
+.article{
+    font-size: 20px;
+}
+
+.evidenziatura{
+    background-color: yellow;
+}
+
+ul{
+    font-size: 20px;
+    margin-left: 20px;
+    padding-left: 0;
+}
+
