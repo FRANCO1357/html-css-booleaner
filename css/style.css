@@ -8,7 +8,7 @@ header{
     height: 180px;
 }
 
-div{
+.logo{
     background-image: url("../img/logo.svg");
     background-repeat: no-repeat;
     height: 180px;
@@ -33,4 +33,36 @@ h2{
 
 figure{
     margin: 0;
+}
+
+.description{
+    font-size: 16px;
+    margin: 0;
+}
+
+.article{
+    font-size: 22px;
+}
+
+.list{
+    font-size: 20px;
+    margin-left: 0px;
+}
+
+.evidenziatura{
+    background-color: yellow;
+}
+
+.monitor{
+    background-image: url("../img/monitor.jpg");
+}
+
+.graph{
+    background-image: url("../img/graph.jpg");
+}
+
+div{
+    height: 200px;
+    background-repeat: no-repeat;
+    margin-bottom: 10px;
 }
