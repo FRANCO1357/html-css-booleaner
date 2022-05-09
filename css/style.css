@@ -1,0 +1,19 @@
+body{
+    margin: 0;
+}
+
+header{
+    background-color: dodgerblue;
+    background-image: url("../img/pattern.png");
+    height: 180px;
+}
+
+div{
+    background-image: url("../img/logo.svg");
+    background-repeat: no-repeat;
+    height: 80px;
+}
+
+h1{
+    margin: 0;
+}
