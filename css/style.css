@@ -15,8 +15,22 @@ div{
     background-size: 400px;
     background-position: left bottom;
     margin-left: 10px;
+    margin-bottom: 30px;
 }
 
 h1{
+    font-size: 60px;
+    margin: 0;
+}
+
+h2{
+    color: grey;
+}
+
+.date{
+    color: grey;
+}
+
+figure{
     margin: 0;
 }
