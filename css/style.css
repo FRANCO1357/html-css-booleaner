@@ -2,11 +2,16 @@ body{
     margin: 0;
 }
 
+main{
+    padding: 20px;
+}
+
 header{
     background-color: dodgerblue;
     background-image: url("../img/pattern.png");
     height: 180px;
     padding-bottom: 20px;
+    padding-left: 10px;
 }
 
 .logo{
@@ -15,22 +20,25 @@ header{
     height: 180px;
     background-size: 400px;
     background-position: left bottom;
-    margin-left: 10px;
-    margin-bottom: 200px;
 }
 
 h1{
-    font-size: 60px;
+    font-size: 50px;
     margin: 0;
+    margin-top: 20px;
+    margin-right: 200px;
 }
 
-h2{
+.autore{
     color: grey;
     text-decoration: none;
+    margin: 0;
 }
 
 .date{
     color: grey;
+    margin: 0;
+    margin-bottom: 20px;
 }
 
 figure{
@@ -49,6 +57,10 @@ figure{
 .list{
     font-size: 20px;
     margin-left: 0px;
+}
+
+ul{
+    padding: 20px;
 }
 
 .evidenziatura{
@@ -79,15 +91,19 @@ table{
 }
 
 thead{
-    background-color: blue;
+    background-color: rgb(90, 162, 255);
 }
 
 .color{
-    background-color: aqua;
+    background-color: rgb(110, 212, 255);
     margin: 0;
     padding: 0;
 }
 
 .white{
     background-color: white;
+}
+
+h3{
+    color: grey;
 }
