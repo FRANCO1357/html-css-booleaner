@@ -68,3 +68,29 @@ ul{
     padding-left: 0;
 }
 
+table{
+    font-size: 20px;
+    border-collapse: collapse;
+}
+
+thead{
+    background-color: rgb(90, 162, 255);
+    color: white;
+    font-weight: 700;
+}
+
+.color{
+    background-color: rgb(110, 212, 255);
+}
+
+.prima-colonna{
+    width: 25%;
+}
+
+.seconda-colonna{
+    width: 25%;
+}
+
+.terza-colonna{
+    width: 50%;
+}
