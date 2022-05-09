@@ -1,0 +1,49 @@
+body{
+    margin: 0;
+}
+
+header{
+    background-color: dodgerblue;
+    background-image: url("../img/pattern.png");
+    height: 180px;
+}
+
+.logo{
+    background-image: url("../img/logo.svg");
+    background-repeat: no-repeat;
+    height: 180px;
+    background-size: 400px;
+    background-position: left bottom;
+}
+
+main{
+    padding: 10px;
+}
+
+h1{
+    font-size: 50px;
+    margin-right: 200px;
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+h2{
+    font-weight: 100;
+    margin-top: 0;
+    color: grey;
+    margin-bottom: 0;
+}
+
+a{
+    text-decoration: none;
+    color: dodgerblue;
+}
+
+.date{
+    color: grey;
+    margin-top: 0;
+}
+
+img{
+    height: 480px;
+}
