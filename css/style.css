@@ -6,6 +6,7 @@ header{
     background-color: dodgerblue;
     background-image: url("../img/pattern.png");
     height: 180px;
+    padding-bottom: 20px;
 }
 
 .logo{
@@ -15,7 +16,7 @@ header{
     background-size: 400px;
     background-position: left bottom;
     margin-left: 10px;
-    margin-bottom: 30px;
+    margin-bottom: 200px;
 }
 
 h1{
@@ -25,6 +26,7 @@ h1{
 
 h2{
     color: grey;
+    text-decoration: none;
 }
 
 .date{
@@ -65,4 +67,27 @@ div{
     height: 200px;
     background-repeat: no-repeat;
     margin-bottom: 10px;
+    font-size: 24px;
+    color: white;
+    padding: 8px;
+}
+
+table{
+    font-size: 20px;
+    table-layout: auto;
+    border-collapse: collapse;
+}
+
+thead{
+    background-color: blue;
+}
+
+.color{
+    background-color: aqua;
+    margin: 0;
+    padding: 0;
+}
+
+.white{
+    background-color: white;
 }
